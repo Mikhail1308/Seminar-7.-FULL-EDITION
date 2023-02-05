@@ -1,0 +1,15 @@
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\obj\Debug\net6.0\TASK_05.csproj.AssemblyReference.cache
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\obj\Debug\net6.0\TASK_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\obj\Debug\net6.0\TASK_05.AssemblyInfoInputs.cache
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\obj\Debug\net6.0\TASK_05.AssemblyInfo.cs
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\obj\Debug\net6.0\TASK_05.csproj.CoreCompileInputs.cache
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\bin\Debug\net6.0\TASK_05.exe
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\bin\Debug\net6.0\TASK_05.deps.json
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\bin\Debug\net6.0\TASK_05.runtimeconfig.json
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\bin\Debug\net6.0\TASK_05.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\bin\Debug\net6.0\ref\TASK_05.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\bin\Debug\net6.0\TASK_05.pdb
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\obj\Debug\net6.0\TASK_05.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\obj\Debug\net6.0\ref\TASK_05.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\obj\Debug\net6.0\TASK_05.pdb
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 7  Массивы многомерные. Рекурсия\TASK_05\obj\Debug\net6.0\TASK_05.genruntimeconfig.cache
